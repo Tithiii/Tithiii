@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tithi</h1>
-<h3 align="center">A passionate UI/UX Designer</h3>
+<h3 align="center">A passionate UI/UX Designer keen to fulfill user requirements</h3>
+
+<div>
+
+  <h2>About Me</h2>
+
+  <p>A hardworking UI/UX designer proficient in tools like Figma, Adobe Illustrator and Canva with strong understanding of user friendly design constantly seeking new challenges and opportunities to expand my skill set and improve my abilities as a designer.
+</p>
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
